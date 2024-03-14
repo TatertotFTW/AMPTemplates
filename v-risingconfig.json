@@ -23,7 +23,7 @@
     "IsFlagArgument": false,
     "ParamFieldName": "Name",
     "IncludeInCommandLine": false,
-    "DefaultValue": "AMP V Rising Server",
+    "DefaultValue": "V Rising Server Powered by PlayVGS.com",
     "EnumValues": {}
   },
   {
@@ -36,8 +36,8 @@
     "IsFlagArgument": false,
     "ParamFieldName": "Description",
     "IncludeInCommandLine": false,
-    "DefaultValue": "AMP V Rising Server",
-    "Placeholder": "AMP V Rising Server",
+    "DefaultValue": "V Rising Server Powered by PlayVGS.com",
+    "Placeholder": "V Rising Server Powered by PlayVGS.com",
     "EnumValues": {}
   },
   {
