@@ -33,7 +33,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/ServerSettings/property[@name='ServerWebsiteURL']/@value",
         "IncludeInCommandLine":false,
-        "DefaultValue":"https://cubecoders.com/AMP",
+        "DefaultValue":"https://playvgs.com",
         "EnumValues":{}
     },{
         "DisplayName":"Server Password",
