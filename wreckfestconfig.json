@@ -62,7 +62,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"server_name",
         "IncludeInCommandLine":false,
-        "DefaultValue":"Wreckfest Server - Powered by AMP",
+        "DefaultValue":"Wreckfest Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
@@ -88,7 +88,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"welcome_message",
         "IncludeInCommandLine":false,
-        "DefaultValue":"Welcome to Wreckfest. Hosted using AMP by CubeCoders",
+        "DefaultValue":"Welcome to Wreckfest. Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
