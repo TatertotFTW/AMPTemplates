@@ -61,7 +61,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/Script/Astro.AstroServerSettings.ServerName",
         "IncludeInCommandLine":false,
-        "DefaultValue":"Astroneer Server - Powered by AMP",
+        "DefaultValue":"Astroneer Server - Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
