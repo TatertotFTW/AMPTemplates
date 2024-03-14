@@ -8,7 +8,7 @@
     "ParamFieldName": "name",
     "IncludeInCommandLine": false,
     "Required": true,
-    "DefaultValue":  "My Valheim Server - Powered by AMP"
+    "DefaultValue":  "My Valheim Server Powered by PlayVGS.com"
   },
   {
     "DisplayName": "World Name",
@@ -20,7 +20,7 @@
     "ParamFieldName": "world",
     "IncludeInCommandLine": false,
     "Required": true,
-    "DefaultValue": "PoweredByAMP"
+    "DefaultValue": "PoweredByPlayVGS"
   },
   {
     "DisplayName": "Server Password",
