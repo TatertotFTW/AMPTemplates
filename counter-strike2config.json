@@ -8,7 +8,7 @@
         "InputType":"text",
         "ParamFieldName":"hostname",
         "IncludeInCommandLine":true,
-        "DefaultValue":"AMP Powered Counter-Strike 2 Server",
+        "DefaultValue":"Counter-Strike 2 Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
