@@ -48,7 +48,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"SERVER.NAME",
         "IncludeInCommandLine":false,
-        "DefaultValue":"Assetto Corsa Server - Powered by AMP",
+        "DefaultValue":"Assetto Corsa Server - Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
