@@ -64,7 +64,7 @@
         "FieldName":"name",
         "InputType":"text",
         "ParamFieldName":"$.name",
-        "DefaultValue":"AMP Powered Enshrouded Server",
+        "DefaultValue":"Enshrouded Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
