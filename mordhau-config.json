@@ -9,7 +9,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "/Script/Mordhau.MordhauGameSession.ServerName",
         "IncludeInCommandLine": false,
-        "DefaultValue": "AMP Powered Mordhau Server",
+        "DefaultValue": "Mordhau Server Powered by PlayVGS.com",
         "EnumValues": {}
     },
     {
