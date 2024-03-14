@@ -51,8 +51,8 @@
         "IsFlagArgument":false,
         "ParamFieldName":"PublicName",
         "IncludeInCommandLine":false,
-        "DefaultValue":"AMP Powered PZ Server",
-        "Placeholder":"AMP Powered PZ Server",
+        "DefaultValue":"PZ Server Powered by PlayVGS.com",
+        "Placeholder":"PZ Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
