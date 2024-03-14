@@ -61,8 +61,8 @@
         "IsFlagArgument": false,
         "ParamFieldName": "$.ServerName",
         "IncludeInCommandLine": false,
-        "DefaultValue": "AMP Powered Sons Of The Forest Server",
-        "Placeholder": "AMP Powered Sons Of The Forest Server",
+        "DefaultValue": "Sons Of The Forest Server Powered by PlayVGS.com",
+        "Placeholder": "Sons Of The Forest Server Powered by PlayVGS.com",
         "EnumValues": {}
     },
     {
