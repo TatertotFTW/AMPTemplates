@@ -22,7 +22,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"hostname",
         "IncludeInCommandLine":false,
-        "DefaultValue":"AMP Powered DayZ Server",
+        "DefaultValue":"DayZ Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
