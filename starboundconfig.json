@@ -9,7 +9,7 @@
     "IsFlagArgument": false,
     "ParamFieldName": "serverName",
     "IncludeInCommandLine": false,
-    "DefaultValue": "AMP Starbound Server",
+    "DefaultValue": "Starbound Server Powered by PlayVGS.com",
     "EnumValues": {}
   },
   {
