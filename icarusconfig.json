@@ -52,7 +52,7 @@
         "ParamFieldName":"SteamServerName",
         "IncludeInCommandLine":true,
         "SkipIfEmpty":true,
-        "DefaultValue":"AMP Powered Icarus Server",
+        "DefaultValue":"Icarus Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
