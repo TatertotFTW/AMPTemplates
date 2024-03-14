@@ -40,8 +40,8 @@
         "FieldName":"ServerName",
         "InputType":"text",
         "ParamFieldName":"BaseServerConfig.ServerName",
-        "DefaultValue":"AMP Powered The Front Server",
-        "Placeholder":"AMP Powered The Front Server",
+        "DefaultValue":"The Front Server Powered by PlayVGS.com",
+        "Placeholder":"The Front Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
