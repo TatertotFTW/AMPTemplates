@@ -58,7 +58,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"ServerName",
         "IncludeInCommandLine":true,
-        "DefaultValue":"Conan Exiles Server - Powered by AMP",
+        "DefaultValue":"Conan Exiles Server - Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
