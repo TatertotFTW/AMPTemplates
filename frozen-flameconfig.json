@@ -9,7 +9,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"MetaGameServerName",
         "IncludeInCommandLine":true,
-        "DefaultValue":"AMP Powered Frozen Flame Server",
+        "DefaultValue":"Frozen Flame Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
