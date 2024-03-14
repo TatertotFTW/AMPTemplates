@@ -9,7 +9,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/ServerSettings/property[@name='ServerName']/@value",
         "IncludeInCommandLine":false,
-        "DefaultValue":"My Amp Host",
+        "DefaultValue":"7DTD Server Powered by PlayVGS.com",
         "EnumValues":{}
     },{
         "DisplayName":"Server Description",
@@ -21,7 +21,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/ServerSettings/property[@name='ServerDescription']/@value",
         "IncludeInCommandLine":false,
-        "DefaultValue":"An AMP Powered 7 Days to Die server",
+        "DefaultValue":"7 Days to Die server Powered by PlayVGS.com",
         "EnumValues":{}
     },{
         "DisplayName":"Server Website URL",
