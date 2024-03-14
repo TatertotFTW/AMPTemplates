@@ -65,8 +65,8 @@
     "IsFlagArgument": false,
     "ParamFieldName": "serverName",
     "IncludeInCommandLine": false,
-    "DefaultValue": "AMP Forest Server",
-    "Placeholder": "AMP Forest Server",
+    "DefaultValue": "Forest Server Powered by PlayVGS.com",
+    "Placeholder": "Forest Server Powered by PlayVGS.com",
     "EnumValues": {}
   },
   {
