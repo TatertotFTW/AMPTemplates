@@ -7,7 +7,7 @@
         "FieldName":"ServerName",
         "InputType":"text",
         "ParamFieldName":"Host Settings.ServerName",
-        "DefaultValue":"AMP Powered HumanitZ Server",
+        "DefaultValue":"HumanitZ Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
