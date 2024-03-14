@@ -52,7 +52,7 @@
         "FieldName":"ServerName",
         "InputType":"text",
         "ParamFieldName":"ServerName",
-        "DefaultValue":"AMP Powered Palworld Server",
+        "DefaultValue":"Palworld Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {
