@@ -35,7 +35,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"serverName",
         "IncludeInCommandLine":false,
-        "DefaultValue":"Assetto Corsa Competizione Server - Powered by AMP",
+        "DefaultValue":"Assetto Corsa Competizione Server - Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {

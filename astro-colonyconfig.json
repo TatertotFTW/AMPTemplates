@@ -7,8 +7,8 @@
         "FieldName":"ServerName",
         "InputType":"text",
         "ParamFieldName":"ServerName",
-        "DefaultValue":"AMP Powered Astro Colony Server",
-        "Placeholder":"AMP Powered Astro Colony Server",
+        "DefaultValue":"Astro Colony Server Powered by PlayVGS.com",
+        "Placeholder":"Astro Colony Server Powered by PlayVGS.com",
         "EnumValues":{}
     },
     {

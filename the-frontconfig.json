@@ -244,7 +244,7 @@
     {
         "DisplayName":"Additional Command Line Parameters",
         "Category":"The Front Server Settings",
-        "Description":"Specifies additional command line parameters that are not otherwise set by AMP. ONE LINE ONLY! Use with care",
+        "Description":"Specifies additional command line parameters that are not otherwise set by PlayVGS. ONE LINE ONLY! Use with care",
         "Keywords":"custom,server,arguments,variables,cvars,convars,parameters",
         "FieldName":"CustomServerArgs",
         "InputType":"Textarea",

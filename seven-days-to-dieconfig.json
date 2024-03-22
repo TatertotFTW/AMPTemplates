@@ -418,7 +418,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/ServerSettings/property[@name='WorldGenSeed']/@value",
         "IncludeInCommandLine":false,
-        "DefaultValue":"AMP",
+        "DefaultValue":"PlayVGS",
         "EnumValues":{}
     },{
         "DisplayName":"World Gen Size",
@@ -442,7 +442,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/ServerSettings/property[@name='GameName']/@value",
         "IncludeInCommandLine":false,
-        "DefaultValue":"My AMP Game",
+        "DefaultValue":"My PlayVGS.com Game",
         "EnumValues":{}
     },{
         "DisplayName":"Game Mode",

@@ -192,7 +192,7 @@
     {
         "DisplayName":"Custom Command Line Arguments",
         "Category":"Palworld Server Settings",
-        "Description":"Sets custom command line arguments. Don't use arguments already in AMP's settings!",
+        "Description":"Sets custom command line arguments. Don't use arguments already in PlayVGS's settings!",
         "Keywords":"custom,command,line,arguments",
         "FieldName":"CustomArgs",
         "InputType":"text",
