@@ -1,4 +1,4 @@
-Meta.DisplayName=Enshrouded
+Meta.DisplayName=PlayVGS Enshrouded
 Meta.Description=Enshrouded Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -25,7 +25,7 @@ Meta.ConfigVersion=1.2
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
 Meta.ImportableExtensions=[]
-Meta.AppConfigId=473ef3af-bc0b-4555-a42b-9f6393ffd29f
+Meta.AppConfigId=09985ca0-0d5b-4b82-b12e-1da3fe47b2d7
 App.DisplayName=Enshrouded
 App.RootDir=./enshrouded/
 App.BaseDirectory=./enshrouded/2278520/

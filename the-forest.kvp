@@ -1,4 +1,4 @@
-Meta.DisplayName=The Forest
+Meta.DisplayName=PlayVGS The Forest
 Meta.Description=The Forest Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -18,7 +18,7 @@ Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=False
-Meta.AppConfigId=f4864f21-507e-430c-84d5-077c99c79493
+Meta.AppConfigId=f31f4ea4-53ea-40ec-8d93-5056da41a1f2
 App.DisplayName=The Forest
 App.RootDir=./the-forest/
 App.BaseDirectory=./the-forest/556450/

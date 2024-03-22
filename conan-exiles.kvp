@@ -1,4 +1,4 @@
-Meta.DisplayName=Conan Exiles
+Meta.DisplayName=PlayVGS Conan Exiles
 Meta.Description=Conan Exiles Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=NotSupported
@@ -21,7 +21,7 @@ Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=False
-Meta.AppConfigId=33716b55-127d-43b1-a764-f9467ee5da1f
+Meta.AppConfigId=a6db41d4-1352-4d48-9491-db2c0c278463
 App.DisplayName=Conan Exiles
 App.RootDir=./conan-exiles/
 App.BaseDirectory=./conan-exiles/443030/

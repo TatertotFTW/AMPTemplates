@@ -1,4 +1,4 @@
-Meta.DisplayName=Project Zomboid
+Meta.DisplayName=PlayVGS Project Zomboid
 Meta.Description=Project Zomboid Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -18,7 +18,7 @@ Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=False
-Meta.AppConfigId=c2b4163c-cf2a-4d67-b6bb-5fee166b4d33
+Meta.AppConfigId=31e2d7c5-18f5-4210-9206-04833f480ec6
 App.DisplayName=Project Zomboid
 App.RootDir=./project-zomboid/
 App.BaseDirectory=./project-zomboid/380870/

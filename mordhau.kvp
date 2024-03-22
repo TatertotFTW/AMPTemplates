@@ -1,4 +1,4 @@
-Meta.DisplayName=Mordhau
+Meta.DisplayName=PlayVGS Mordhau
 Meta.Description=Mordhau Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -15,7 +15,7 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.Prerequsites=[]
 Meta.ConfigReleaseState=NotSpecified
-Meta.AppConfigId=87af5cd3-3521-4eb7-a3e3-fa3cf8203947
+Meta.AppConfigId=dd5e94c6-2f80-4b3e-b2f2-945b6e2b5782
 App.DisplayName=Mordhau
 App.RootDir=./mordhau/
 App.BaseDirectory=./mordhau/629800/

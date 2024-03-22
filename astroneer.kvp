@@ -1,4 +1,4 @@
-Meta.DisplayName=Astroneer
+Meta.DisplayName=PlayVGS Astroneer
 Meta.Description=Astroneer Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -24,7 +24,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=0.0.0.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=2a9f3285-5adc-4574-8a5b-d6ef39e8b7a0
+Meta.AppConfigId=bb8707f6-87d3-4797-a2c2-630ea755915c
 App.DisplayName=Astroneer
 App.RootDir=./astroneer/
 App.BaseDirectory=./astroneer/728470/

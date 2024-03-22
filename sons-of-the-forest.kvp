@@ -1,4 +1,4 @@
-Meta.DisplayName=Sons Of The Forest
+Meta.DisplayName=PlayVGS Sons Of The Forest
 Meta.Description=Sons Of The Forest Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -17,7 +17,7 @@ Meta.ContainerPolicy=RecommendedOnLinux
 Meta.ContainerPolicyReason=The server requires Wine 8 (or later) and Xvfb to run on Linux. Using a container avoids the need to install these dependencies on the host.
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=False
-Meta.AppConfigId=da9e2786-d2b8-4c1f-bc9d-b1ec844bd70d
+Meta.AppConfigId=91496555-3abf-44c3-8af3-29584589f83f
 App.DisplayName=Sons Of The Forest
 App.RootDir=./sons-of-the-forest/
 App.BaseDirectory=./sons-of-the-forest/2465200/

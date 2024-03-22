@@ -1,4 +1,4 @@
-Meta.DisplayName=HumanitZ
+Meta.DisplayName=PlayVGS HumanitZ
 Meta.Description=HumanitZ Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -25,7 +25,7 @@ Meta.ConfigVersion=1.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
 Meta.ImportableExtensions=[]
-Meta.AppConfigId=5c3e6051-0fcf-4988-b6da-bde28bce4fb1
+Meta.AppConfigId=1c409e28-3fb5-4c0f-bfb3-8ba853e085ab
 App.DisplayName=HumanitZ
 App.RootDir=./humanitz/
 App.BaseDirectory=./humanitz/2728330/

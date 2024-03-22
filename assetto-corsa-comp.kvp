@@ -1,4 +1,4 @@
-Meta.DisplayName=Assetto Corsa Competizione
+Meta.DisplayName=PlayVGS Assetto Corsa Competizione
 Meta.Description=Assetto Corsa Competizione Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -16,7 +16,7 @@ Meta.ContainerPolicy=SupportedOnWindows, RecommendedOnLinux
 Meta.ContainerPolicyReason=The server requires Wine to run on Linux. Using a container avoids the need to install this dependency on the host.
 Meta.Prerequsites=[]
 Meta.ConfigReleaseState=NotSpecified
-Meta.AppConfigId=27bf55ba-c744-42b1-ac5d-e6aaeacc9e85
+Meta.AppConfigId=caecde92-7e27-44f2-a03d-83e477e5f90f
 App.DisplayName=Assetto Corsa Competizione
 App.RootDir=./assetto-corsa-comp/
 App.BaseDirectory=./assetto-corsa-comp/1430110/

@@ -1,4 +1,4 @@
-Meta.DisplayName=Icarus
+Meta.DisplayName=PlayVGS Icarus
 Meta.Description=Icarus Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -16,7 +16,7 @@ Meta.ContainerPolicyReason=The server requires Wine 7 (or later) to run on Linux
 Meta.ExtraSetupStepsURI=
 Meta.Prerequsites=[]
 Meta.ConfigReleaseState=NotSpecified
-Meta.AppConfigId=630a4794-6466-4de6-956d-91393d6f48e1
+Meta.AppConfigId=5b005e57-a992-4663-a179-9f6147bd1aba
 App.DisplayName=Icarus
 App.RootDir=./icarus/
 App.BaseDirectory=./icarus/2089300/

@@ -1,4 +1,4 @@
-Meta.DisplayName=Smalland: Survive the Wilds
+Meta.DisplayName=PlayVGS Smalland: Survive the Wilds
 Meta.Description=Smalland: Survive the Wilds Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=NotSupported
@@ -24,7 +24,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=0.0.0.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=da75c6a6-0791-4734-ac6a-33c43d46f89e
+Meta.AppConfigId=31de4569-fc39-4fad-a457-45cbaccb220c
 App.DisplayName=Smalland: Survive the Wilds
 App.RootDir=./smalland/
 App.BaseDirectory=./smalland/808040/

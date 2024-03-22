@@ -1,4 +1,4 @@
-Meta.DisplayName=DayZ (Stable)
+Meta.DisplayName=PlayVGS DayZ
 Meta.Description=DayZ (Stable) Dedicated Server
 Meta.OS=Windows, Linux
 Meta.Arch=x86_64
@@ -19,7 +19,7 @@ Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=False
-Meta.AppConfigId=4241cc0f-4604-4600-b103-80134f949278
+Meta.AppConfigId=d4b175c8-7db1-496b-b0cd-97558c49bcb4
 App.DisplayName=DayZ (Stable)
 App.RootDir=./dayz/
 App.BaseDirectory=./dayz/223350/

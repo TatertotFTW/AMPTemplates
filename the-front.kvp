@@ -1,4 +1,4 @@
-Meta.DisplayName=The Front
+Meta.DisplayName=PlayVGS The Front
 Meta.Description=The Front Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -24,7 +24,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=0.0.0.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=f50fa0ca-b155-447c-9e43-adf702a416cf
+Meta.AppConfigId=a86f4d81-f992-4ede-9dda-1f3feed0221d
 App.DisplayName=The Front
 App.RootDir=./the-front/
 App.BaseDirectory=./the-front/server/
