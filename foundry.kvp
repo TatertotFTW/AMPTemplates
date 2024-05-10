@@ -1,4 +1,4 @@
-Meta.DisplayName=FOUNDRY
+Meta.DisplayName=PlayVGS FOUNDRY
 Meta.Description=FOUNDRY Dedicated Server
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -24,7 +24,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=1.0
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=56105756-01a5-4658-b9c7-643ffedc4766
+Meta.AppConfigId=082e9446-ced8-4120-acee-7d13511fef7c
 Meta.ImportableExtensions=[]
 App.DisplayName=FOUNDRY
 App.RootDir=./foundry/

@@ -7,7 +7,7 @@
         "FieldName":"server_name",
         "InputType":"text",
         "ParamFieldName":"server_name",
-        "DefaultValue":"AMP Powered FOUNDRY Server",
+        "DefaultValue":"FOUNDRY Server - Powered By PlayVGS.com",
         "EnumValues":{}
     },
     {
